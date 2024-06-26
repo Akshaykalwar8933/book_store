@@ -2,7 +2,6 @@ import 'package:book_store/static/theme.dart';
 import 'package:book_store/views/welcome_page.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-
 void main() {
   runApp(const MyApp());
 }
